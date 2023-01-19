@@ -1,0 +1,20 @@
+body{
+    margin: 0;
+}
+
+
+.main-text{
+    margin: auto;
+    color:black;
+    text-align: center;
+    display: flex;
+    font-size: 50px;
+    justify-content: center;
+    cursor: default;
+    margin-top: 450px;
+}
+
+.main-text:hover{
+    color: red;
+}
+
